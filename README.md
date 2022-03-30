@@ -10,7 +10,7 @@ Initial references:
 https://towardsdatascience.com/clustering-on-numerical-and-categorical-features-6e0ebcf1cbad
 
 
-1- Imre Lendak will share a dataset and a bit more detailed task description.
+1. Imre Lendak will share a dataset and a bit more detailed task description.
 2. We have hard milestones meet them in all cases.
 3. Next milestone is March 31. Put together an Overleaf report with literature review and initial data analysis. Create a Jupyter with initial analytics and modeling as well.
 4. We expect to see 10+ days put into the DS Lab. We do not accept 5-line solutions submitted at the very end of the semester.
