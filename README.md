@@ -23,3 +23,9 @@ March 31. Deadline
   - Data description (0.5 page)
   - References
   - Initial analytics
+
+May 15. Deadline
+  - data understanding
+  - sound methodology chosen
+  - initial documentation
+  - github repo for data pre-processing and maybe method implementation as well
