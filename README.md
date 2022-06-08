@@ -25,7 +25,11 @@ March 31. Deadline
   - Initial analytics
 
 May 15. Deadline
-  - data understanding
-  - sound methodology chosen
-  - initial documentation
-  - github repo for data pre-processing and maybe method implementation as well
+  - Data understanding
+  - Sound methodology chosen
+  - Initial documentation
+  - Github repo for data pre-processing and maybe method implementation as well
+
+June 10. Deadline
+  - Experiments and tests 
+  - Final report 
