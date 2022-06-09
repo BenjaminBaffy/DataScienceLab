@@ -33,3 +33,58 @@ May 15. Deadline
 June 10. Deadline
   - Experiments and tests 
   - Final report 
+
+
+
+
+
+
+---
+
+Final sumary
+
+- Task - Clustering of costumer data
+  - Mixed data
+  - Gower distance
+    - Different similarity measure per type of data
+  - DBSCAN and Agglomerative clustering
+  - Silhouette score
+
+- Dataset - Costumers (companies) of a bank
+  - Columns
+    - About the costumer
+    - About the service
+    - Numerical, categorical and date type
+  - Unique values
+  - Missing values
+
+- Cleaning and transformation
+  - Removed almost empty rows and columns
+  - Removed unique or almost unique columns
+  - Transformed date types
+    - Numerical 0-1 range
+    - Binary (older than 1 year)
+    - Multiple bins
+  - Post-code to county
+  - Normalising numerical data
+    - Sensitive to outliers
+  - Removing outliers (numerical)
+  - Standardising numerical data
+    - Robust to outliers
+
+- Feature selection
+  - Based on variance
+  - Using a wrapper method
+    - with DBSCAN and the silhouette score
+  - Feature subset suggested by Prof. Lendák
+
+- Clustering
+  - DBSCAN - Best
+    - Wrapper method with standardised numerical: 
+      - 2 clusters
+      - Probably based on the date of account creation (within one year or older)
+  - Agglomerative - Best
+    - Suggested feature set
+      - 3 clusters
+      - Based on the last activity date (within one month, 3 months or older)
+
